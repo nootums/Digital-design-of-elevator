@@ -1,5 +1,6 @@
 # Digital-design-of-elevator
 Design for a 6 storey elevator
+
 This design takes the following inputs:
   1.) 0-6 floors' buttons
   2.) Emergency button to stop the elevator
