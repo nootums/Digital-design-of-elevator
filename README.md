@@ -69,4 +69,6 @@ When input to the MUX is 0, the floor is incremented automatically, and when the
 
 The `.circ` file contains a basic implementation with stripped down features using ICs as well.
 
+The download link for the detailed report of the design, with included state tables, datasheet links and block diagrams is: [Detailed Report for Design](https://github.com/nootums/Digital-design-of-elevator/raw/main/Detailed%20Report%20for%20Elevator%20System.pdf)
+
 The ICs were taken from the following website: http://www.cburch.com/logisim/links.html
