@@ -66,3 +66,8 @@ Additional Functionalities:
   
     5.) Door opens when the button of the present floor is pressed
   
+  
+  
+  
+The .circ file contains a basic implementation with stripped down features using ICs as well. 
+The ICs were taken from the following website: http://www.cburch.com/logisim/links.html
