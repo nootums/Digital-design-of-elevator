@@ -47,8 +47,8 @@ When input to the MUX is 0, the floor is incremented automatically, and when the
 ## Additional Functionalities
 
     1.) Sensor inputs for fault conditions added in the circuit for situations under which the elevator 
-        might fail to run, or come to a halt for emergency evacuation of people. The normal/warning state 
-        of these is visible in the circuit by the respective LED. These sensors are:
+        might fail to run, or come to a halt for emergency evacuation of people. The normal/warning 
+        state of these is visible in the circuit by the respective LED. These sensors are:
       
           ○ Lift Overload - gives a warning when there is a weight overload
         
